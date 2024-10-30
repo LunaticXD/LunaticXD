@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LunaticXD
 - 👀 I’m interested learning new languages 
-- 🌱 I’m currently learning python and html
-- 💞️ I’m looking to collaborate on web/app development
+- 🌱 I’m currently learning Java and Web Dev.
+- 💞️ I’m looking to collaborate on web development
 - 📫 You can reach me through my email.
+- I have done some basic CPP and C.
